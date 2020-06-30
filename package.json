@@ -38,5 +38,18 @@
   },
   "engines": {
     "node": "12.x"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdunl2/AppointmentScheduler3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdunl2/AppointmentScheduler3/issues"
+  },
+  "homepage": "https://github.com/kdunl2/AppointmentScheduler3#readme"
 }
