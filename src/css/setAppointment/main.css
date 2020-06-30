@@ -1,0 +1,10 @@
+  /* FONTS  */
+
+    @font-face {
+    font-family: myFirstFont;
+    src: url('../../fonts/appoint.ttf');
+    }
+
+  .title{
+    font-family: myFirstFont;
+  }
